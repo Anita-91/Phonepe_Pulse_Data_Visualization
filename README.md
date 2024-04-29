@@ -1,6 +1,6 @@
-![image](images/logo.jpg) Phonepe Pulse Data Visualization and Exploration Using Streamlit and Plotly.
+![image](images/logo.jpg)
 
-# Phonepe Pulse Data Visualization and Exploration Using Streamlit and Plotly.
+# Phonepe Pulse Data Visualization and Exploration.
 PhonePe Pulse is a feature offered by the Indian digital payments platform called PhonePe.
 PhonePe Pulse provides users with insights and trends related to their digital transactions and usage patterns on the PhonePe app. It offers personalized analytics, including spending patterns, transaction history, and popular merchants among PhonePe users.
 This feature aims to help users track their expenses, understand their financial behavior, and make informed decisions.
