@@ -2,15 +2,13 @@
 
 ## Phonepe Pulse:
 PhonePe Pulse is a feature offered by the Indian digital payments platform called PhonePe.
-
 PhonePe Pulse provides users with insights and trends related to their digital transactions and usage patterns on the PhonePe app. It offers personalized analytics, including spending patterns, transaction history, and popular merchants among PhonePe users.
-
 This feature aims to help users track their expenses, understand their financial behavior, and make informed decisions.
 
 ## Phonepe Pulse Data Visualisation:
-Data visualization refers to the **graphical representation of data** using charts, graphs, and other visual elements to facilitate understanding and analysis
+Data visualization refers to the graphical representation of data using charts, graphs, and other visual elements to facilitate understanding and analysis
 
-These visualizations are designed to present information in a **visually appealing and easily digestible format**, enabling users to quickly grasp trends, patterns, and insights from their transaction history.
+These visualizations are designed to present information in a visually appealing and easily digestible format, enabling users to quickly grasp trends, patterns, and insights from their transaction history.
 
 ## Problem Statement:
 The Phonepe pulse Github repository contains a large amount of data related to
@@ -20,7 +18,7 @@ PROJECT DESCRIPTION:
           Youtube-Data-Harvesting-And-Warehousing YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
           This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a SQL database, and enables users to search for channel details and join tables to view data in the Streamlit app.
 
-WORKFLOW:
+## WORKFLOW:
 
 1. DATA EXTRACTION :  Clone the Phonepe pulse data from Github repository and store it in a suitable format such as CSV or JSON.
 
@@ -47,11 +45,3 @@ Libraries to import :: git , streamlit , pandas, pymysql, plotly, requests
 CONCLUSION:
         This project aim is to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MYSQL database, and enables users to search for channel information and finally done data visualization to identify trends, get business insights and make predictions for future, and improve decision-making.
 
-# Technologies:
-* **Github Cloning**
-* **Python**
-* **Pandas**
-* **MySQL**
-* **mysql-connector-python**
-* **Streamlit**
-* **Plotly**
