@@ -1,4 +1,4 @@
-![image](images/logo.jpg) # Phonepe Pulse Data Visualization and Exploration Using Streamlit and Plotly.
+![image](images/logo.jpg) Phonepe Pulse Data Visualization and Exploration Using Streamlit and Plotly.
 
 ## Phonepe Pulse:
 PhonePe Pulse is a feature offered by the Indian digital payments platform called PhonePe.
