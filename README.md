@@ -1,4 +1,4 @@
-# Phonepe Pulse Data Visualization and Exploration:A User-Friendly Tool Using Streamlit and Plotly
+![image](images/logo.jpg) Phonepe Pulse Data Visualization and Exploration Using Streamlit and Plotly.
 
 ## Phonepe Pulse:
 PhonePe Pulse is a feature offered by the Indian digital payments platform called PhonePe.
@@ -43,5 +43,5 @@ TOOLS AND LIBRARIES USED:
 Libraries to import :: git , streamlit , pandas, pymysql, plotly, requests
 
 CONCLUSION:
-        This project aim is to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MYSQL database, and enables users to search for channel information and finally done data visualization to identify trends, get business insights and make predictions for future, and improve decision-making.
+       The result of this project will be a live geo visualization dashboard that displays information and insights from the Phonepe pulse Github repository in an interactive and visually appealing manner.
 
