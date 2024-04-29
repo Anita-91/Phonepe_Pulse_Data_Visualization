@@ -16,32 +16,36 @@ These visualizations are designed to present information in a **visually appeali
 The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics.The goal is to extract this data and process it to obtain
 insights and information that can be visualized in a user-friendly manner.
+PROJECT DESCRIPTION:
+          Youtube-Data-Harvesting-And-Warehousing YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
+          This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a SQL database, and enables users to search for channel details and join tables to view data in the Streamlit app.
 
-## Approach:
-## 1. Data extraction -> Clone the Github** using scripting to fetch the data from the
-Phonepe pulse Github repository and store it in a suitable format such as CSV
-or JSON.
-## 2. Data transformation: 
-* Use a scripting language such as **Python**, along with
-libraries such as Pandas, to manipulate and pre-process the data.
-* This may include cleaning the data, handling missing values, and transforming the data
-into a format suitable for analysis and visualization.
-## 3. Database insertion:
-* Use the **"mysql-connector-python"** library in Python to
-connect to a MySQL database and insert the transformed data using SQL
-commands.
-## 4. Dashboard creation: 
-* Use the **Streamlit and Plotly** libraries in Python to create
-an interactive and visually appealing dashboard.
-* Plotly's built-in **geo map** functions can be used to display the data on a map and Streamlit can be used to create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display.
-## 5. Data retrieval:
-* Use the **"mysql-connector-python"** library to connect to the
-MySQL database and fetch the data into a Pandas dataframe. 
-* Use the data in the dataframe to update the dashboard dynamically.
-## 6. Deployment: 
-* Ensuring the solution is secure, efficient, and user-friendly. 
-* Testing the solution thoroughly and **deploy the dashboard** publicly, making it
-accessible to users.
+WORKFLOW:
+
+1. DATA EXTRACTION :  Clone the Phonepe pulse data from Github repository and store it in a suitable format such as CSV or JSON.
+
+2. DATA TRANSFORMATION :
+    ---> Use a pandas library to manipulate and pre-process the data.
+    ---> Clean the extracted data and then Convert it to dataframe using Pandas.
+   
+3. MIGARTE TO MYSQL : Migration of data to a MYSSQL database for storing the transformed data.
+4. DASHBOARD CREATION: Use the 'Streamlit and PLotly' libraries in Python to create an interactive and visually appealing dashboard.
+5. DATA VISUALIZATION : Using 'mysql-connector-python' library to connect to the MySQL database and fetch the data into a Pandas dataframe to update the dashboard dynamically.
+
+![image](images/flow.png)
+
+TOOLS AND LIBRARIES USED:
+ 1. PYTHON -> Python is a powerful programming language renowned for being easy to learn and understand. Python is the primary language employed in this project for the development of the complete application, including data retrieval, processing, analysis, and visualisation.
+ 2. Github Cloning -> Its primary purpose in this project is to interact with YouTube's Data API v3, allowing the retrieval of essential information like channel details, video specifics, and comments. By utilizing googleapiclient, developers can easily access and manipulate YouTube's extensive data resources through code.
+ 3. MYSQL SERVER 8.0 -> MYSQL is an open-source relational database management system.organizes data into one or more data tables in which data may be related to each other; these relations help structure the data. SQL is a language that programmers use to create, modify and extract data from the relational database
+ 4. STREAMLIT -> Streamlit library is a framework used to build a user-friendly UI web application that enables users to interact with the programme and carry out data retrieval and analysis operations.
+ 5. PANDAS -> Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data. It is used widely for Data collection and manipulation for analytics.
+ 6. plotly -> open-source library that can be used for data visualization and understanding data simply and easily. Plotly supports various types of plots like line charts, scatter plots, histograms, box plots, etc.
+
+Libraries to import :: git , streamlit , pandas, pymysql, plotly, requests
+
+CONCLUSION:
+        This project aim is to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MYSQL database, and enables users to search for channel information and finally done data visualization to identify trends, get business insights and make predictions for future, and improve decision-making.
 
 # Technologies:
 * **Github Cloning**
