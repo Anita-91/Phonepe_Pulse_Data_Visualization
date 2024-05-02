@@ -24,16 +24,16 @@ The goal is to extract this data and process it to obtain insights and informati
 ## DASHBOARD 
 
 # HOME MENU
-![image](images/home_page.jpg)
+![image](images/home_page.png)
 
 # EXPLORE MENU
-![image](images/explore_1.jpg)
-![image](images/explore_2.jpg)
+![image](images/explore_1.png)
+![image](images/explore_2.png)
 
 # INSIGHTS MENU:
-![image](images/insight_page.jpg)
+![image](images/insight_page.png)
 # ABOUT MENU:
-![image](images/about_page.jpg)
+![image](images/about_page.png)
 
 
 TOOLS AND LIBRARIES USED:
