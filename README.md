@@ -23,6 +23,19 @@ The goal is to extract this data and process it to obtain insights and informati
 
 ## DASHBOARD 
 
+# HOME MENU
+![image](images/home_page.jpg)
+
+# EXPLORE MENU
+![image](images/explore_1.jpg)
+![image](images/explore_2.jpg)
+
+# INSIGHTS MENU:
+![image](images/insight_page.jpg)
+# ABOUT MENU:
+![image](images/about_page.jpg)
+
+
 TOOLS AND LIBRARIES USED:
  1. PYTHON -> Python is a powerful programming language renowned for being easy to learn and understand. Python is the primary language employed in this project for the development of the complete application, including data retrieval, processing, analysis, and visualisation.
  2. Github Cloning -> Its primary purpose in this project is to clone the Phonepe Pulse Data and convert into CSV files.
