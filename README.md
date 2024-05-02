@@ -29,9 +29,13 @@ The goal is to extract this data and process it to obtain insights and informati
 # EXPLORE MENU
 ![image](images/explore_1.png)
 ![image](images/explore_2.png)
+
+
+
+
+
 ![image](images/explore_3.png)
 ![image](images/explore_4.png)
-
 
 # INSIGHTS MENU:
 ![image](images/insight_page.png)
