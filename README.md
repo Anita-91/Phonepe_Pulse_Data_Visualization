@@ -21,7 +21,7 @@ The goal is to extract this data and process it to obtain insights and informati
 
 ![image](images/flow.png)
 
-## DASHBOARD 
+## DASHBOARD  
 # HOME MENU
 ![image](images/home_page.png)
 
