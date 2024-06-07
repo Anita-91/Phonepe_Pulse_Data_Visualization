@@ -2,7 +2,8 @@
 ![image](images/logo.jpg)
 
 **Demo Video Link**
-[![Demo Video](https://i.vimeocdn.com/video/954845289.jpg)](https://vimeo.com/954845289)
+[![Demo Video](https://i.vimeocdn.com/video/954845289.jpg)](https://player.vimeo.com/video/954845289)
+
 
 -> PhonePe Pulse is a feature offered by the Indian digital payments platform called PhonePe.
 -> PhonePe Pulse provides users with insights and trends related to their digital transactions and usage patterns on the PhonePe app. It offers personalized analytics, including spending patterns, transaction history, and popular merchants among PhonePe users.
