@@ -15,7 +15,7 @@ The goal is to extract this data and process it to obtain insights and informati
 2. DATA TRANSFORMATION :
     ---> Use a pandas library to manipulate and pre-process the data.
     ---> Clean the extracted data and then Convert it to dataframe using Pandas.
-3. MIGARTE TO MYSQL : Migration of data to a MYSSQL database for storing the transformed data.
+3. MIGARTE TO MYSQL : Migration of data to a MYSQL database for storing the transformed data.
 4. DASHBOARD CREATION: Use the 'Streamlit and PLotly' libraries in Python to create an interactive and visually appealing dashboard.
 5. DATA VISUALIZATION : Using 'mysql-connector-python' library to connect to the MySQL database and fetch the data into a Pandas dataframe to update the dashboard dynamically.
 
